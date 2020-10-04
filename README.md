@@ -7,4 +7,4 @@ Main technologies used are:
 - TensorFlow 2.3.1
 - Numpy 1.18.5
 
-All requirements are listed in the conda environment.yml file. 
+All dependencies are listed in the conda environment.yml file. 
